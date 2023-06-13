@@ -15,6 +15,8 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+cdk.out/
+*credentials.env
 develop-eggs/
 dist/
 downloads/
